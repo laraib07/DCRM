@@ -3,7 +3,6 @@ dj-database-url==2.1.0
 Django==4.2.6
 django-psdb-engine==1.0.6
 mysql==0.0.3
-mysqlclient==2.2.0
 PyMySQL==1.1.0
 python-dotenv==1.0.0
 sqlparse==0.4.4
