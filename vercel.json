@@ -1,6 +1,5 @@
 
 {
-  "version": 2,
   "builds": [
     {
       "src": "dcrm/wsgi.py",
